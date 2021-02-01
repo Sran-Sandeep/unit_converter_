@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">unit_converter_</string>
+    <string name="unit_converter">UNIT CONVERTER</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+    <string name="convert">Convert</string>
+    <string name="convert1">Convert</string>
+    <string name="editText">Fahrenheit</string>
+    <string name="editText2">Celsius</string>
+</resources>
